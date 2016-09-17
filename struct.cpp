@@ -1,3 +1,4 @@
+//abad
 #include <iostream>
 using namespace std;
 
@@ -76,7 +77,7 @@ int main(){
     	 cout.setf(ios::showpoint);
     	 cout.precision(2);
     	 
-    for(i=0;i<5;i++){
+   /* for(i=0;i<5;i++){
     	cout<<endl;
     	cout<<setw(10)<<i+1
     		<<setw(15)<<cust.name.firstName<<","<<cust.name.lastName
